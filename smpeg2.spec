@@ -5,7 +5,7 @@ Summary(ru.UTF-8):	SDL2 MPEG библиотека и проигрыватель
 Summary(uk.UTF-8):	SDL2 MPEG бібліотека та програвач
 Name:		smpeg2
 Version:	2.0.0
-Release:	1
+Release:	2
 License:	LGPL v2+
 Group:		Libraries
 Source0:	http://www.libsdl.org/projects/smpeg/release/%{name}-%{version}.tar.gz
